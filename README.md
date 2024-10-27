@@ -1,4 +1,3 @@
-
 # **Mapping the Global Intellectual Landscape: Top 100,000 Scientists Unveiled**
 
 ## **Introduction**
@@ -76,10 +75,17 @@ Simply follow the link to the Observable HQ project. You can explore the code, m
 3. Modify any parameters in the code cells to explore different aspects of the dataset.
 
 ## **Results and Visualizations**
-This section can include descriptions of the visualizations created in your project. For example, you might highlight key findings from your analyses or describe the types of visualizations used.
+This project includes various visualizations that highlight key findings, such as:
+- Distribution of scientists by country and institution.
+- Analysis of citation trends over time.
+- Collaboration networks among top scientists.
+- Comparative analysis of h-index across different subfields.
 
 ## **Future Work**
-Consider expanding the dataset, refining visualizations, or integrating additional analysis techniques to enhance insights into scholarly impact.
+Future developments may include:
+- Expanding the dataset to include more scientists.
+- Refining visualizations for enhanced clarity.
+- Integrating advanced analytical techniques to derive deeper insights into scholarly impact.
 
 ## **Acknowledgements**
 Special thanks to the contributors and researchers who provided the dataset and inspiration for this project. Your efforts have made this analysis possible.
